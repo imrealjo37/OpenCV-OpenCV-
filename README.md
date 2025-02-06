@@ -1,4 +1,4 @@
-# 🏆 Face & Color Recognition using Huskylens & OpenCV  
+# 🏆 Face Recognition using Huskylens
 
 
 ## 🚀 **Project : Face Recognition using Huskylens (Arduino)**  
